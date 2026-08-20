@@ -10,7 +10,6 @@ I'm currently building my skills through academic projects, personal projects, a
 
 ---
 
-
 ## 🧑‍💻 About Me
 
 🎓 **Computer Programming & Analysis** — Pensacola State College
