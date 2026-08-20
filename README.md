@@ -1,4 +1,3 @@
-## Hi I'm Paola👋
 
 # 👋 Hi, I'm Paola!
 
