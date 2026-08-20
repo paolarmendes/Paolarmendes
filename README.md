@@ -71,7 +71,7 @@ A multi-page website created to practice semantic HTML, CSS, responsive layouts,
 
 **Tech:** `HTML` `CSS`
 
-🔗 [View Repository](https://github.com/paolarmendes/Foward-Fitness-Club)
+🔗 [View Repository](https://github.com/paolarmendes/Foward-Fitness-Club-Website)
 
 ---
 
