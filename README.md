@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi I'm Paola👋
 
-<!--
-**paolarmendes/Paolarmendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Programming & Analysis Student
+I'm a Computer Programming and Analysis student at Pensacola State College with a passion for building websites, learning software development, and solving technical problems.
+I'm currently developing my skills in Java, Python, HTML, CSS, JavaScript, and databases, while building projects that allow me to apply what I'm learning in real-world situations.
 
-Here are some ideas to get you started:
+🚀 About Me
+🎓 Studying Computer Programming & Analysis at Pensacola State College
+💻 Interested in Software Development, Front-End Development, and IT Support
+🌱 Currently learning and improving my skills in Java, Python, JavaScript, and SQL
+🛠️ I enjoy building websites and programming projects
+📍 Based in Florida, USA
+🎯 Goal: Start my career in technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Certifications & Training
+💻 IT Software and Systems Support
+🖥️ IT Hardware and Network Support
+📊 Microsoft Office Pro
+🧠 Transversal Competence — Logic of Programming
+
+🤝 Let's Connect
+📫 paolarmendes14@gmail.com
