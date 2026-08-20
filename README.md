@@ -75,18 +75,6 @@ A multi-page website created to practice semantic HTML, CSS, responsive layouts,
 
 ---
 
-### 🍳 Odin Recipes
-
-**Recipe Website**
-
-A beginner web development project focused on HTML fundamentals and Git/GitHub workflows.
-
-**Tech:** `HTML` `Git` `GitHub`
-
-🔗 [View Repository](https://github.com/paolarmendes/odin-recipes)
-
----
-
 ## 📚 Currently Learning
 
 ```text
