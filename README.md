@@ -59,7 +59,7 @@ A modern, responsive restaurant website designed and developed from scratch.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
-🔗 [View Repository](https://github.com/paolarmendes)
+🔗 [View Repository](https://github.com/paolarmendes/SoulHops)
 
 ---
 
